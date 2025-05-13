@@ -1,6 +1,6 @@
 # Todo-list
 ## .preview
-![To-Do List App]
+![To-Do List App](https://github.com/9-nit/Todo-list/blob/main/images/preview.png)
 
 ## .features
 - [x] Show tasks list
